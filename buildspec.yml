@@ -22,6 +22,6 @@ phases:
       - npm run-script build
 artifacts:
   files:
-    - "**/*"
-  discard-paths: no
-  base-directory: dist
+    - app.js
+    - index.html
+    - package.json
