@@ -22,6 +22,12 @@ phases:
       - npm run-script build
 artifacts:
   files:
+    - index.js
+    - dist/**/*
+    - request-map.js
+    - credentials.json
+    - node_modules/**/*
+  files:
     - "**/*"
   discard-paths: no
   base-directory: dist
