@@ -19,7 +19,7 @@ phases:
       - echo Testing...
       - echo yarn test
       - echo Building...
-      - npm build
+      - npm run-script build
 artifacts:
   files:
     - "**/*"
