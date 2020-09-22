@@ -27,7 +27,3 @@ artifacts:
     - request-map.js
     - credentials.json
     - node_modules/**/*
-  files:
-    - "**/*"
-  discard-paths: no
-  base-directory: dist
