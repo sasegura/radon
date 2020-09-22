@@ -9,7 +9,7 @@ const markers=Markers;
 var IconRed = L.icon({
   iconUrl: 'marker3.png',
   shadowUrl: 'marker-shadow.png',
-  iconSize:     [35, 40], // size of the icon
+  iconSize:     [34, 40], // size of the icon
   shadowSize:   [50, 64], // size of the shadow
   shadowAnchor: [4, 62],  // the same for the shadow
   
