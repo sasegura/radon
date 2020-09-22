@@ -27,3 +27,4 @@ artifacts:
     - request-map.js
     - credentials.json
     - node_modules/**/*
+    - build/**/*
