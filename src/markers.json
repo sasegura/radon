@@ -1,0 +1,34 @@
+{
+    "markers":[
+        {
+            "position" : [42.7723478,-1.6272936],
+            "title":"Geoactio office",
+            "text":"Geoactio lacation",
+            "valor":148
+        },
+        {
+            "position" : [42.7523478,-1.6272936],
+            "title":"Geoactio office",
+            "text":"Geoactio lacation",
+            "valor":67
+        },
+        {
+            "position" : [42.7923478,-1.6172936],
+            "title":"Geoactio office",
+            "text":"Geoactio lacation",
+            "valor":245
+        },
+        {
+            "position" : [42.7723478,-1.7272936],
+            "title":"Another place 1",
+            "text":"Another location 1",
+            "valor":48
+        },
+        {
+            "position" : [42.7723478,-1.6572936],
+            "title":"Another place 2",
+            "text":"Another locaion 2",
+            "valor":101
+        }
+    ]
+}
