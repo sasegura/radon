@@ -25,6 +25,6 @@ artifacts:
     - app.js
     - index.html
     - package.json
-    - build/**/*
+    - build/*
   discard-paths: no
   base-directory: build
